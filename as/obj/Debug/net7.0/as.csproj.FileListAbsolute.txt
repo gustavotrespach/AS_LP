@@ -1,0 +1,29 @@
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\AULA 20 LP - AS\as\bin\Debug\net7.0\as.exe
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\AULA 20 LP - AS\as\bin\Debug\net7.0\as.deps.json
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\AULA 20 LP - AS\as\bin\Debug\net7.0\as.runtimeconfig.json
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\AULA 20 LP - AS\as\bin\Debug\net7.0\as.dll
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\AULA 20 LP - AS\as\bin\Debug\net7.0\as.pdb
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\AULA 20 LP - AS\as\obj\Debug\net7.0\as.csproj.AssemblyReference.cache
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\AULA 20 LP - AS\as\obj\Debug\net7.0\as.GeneratedMSBuildEditorConfig.editorconfig
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\AULA 20 LP - AS\as\obj\Debug\net7.0\as.AssemblyInfoInputs.cache
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\AULA 20 LP - AS\as\obj\Debug\net7.0\as.AssemblyInfo.cs
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\AULA 20 LP - AS\as\obj\Debug\net7.0\as.csproj.CoreCompileInputs.cache
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\AULA 20 LP - AS\as\obj\Debug\net7.0\as.dll
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\AULA 20 LP - AS\as\obj\Debug\net7.0\refint\as.dll
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\AULA 20 LP - AS\as\obj\Debug\net7.0\as.pdb
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\AULA 20 LP - AS\as\obj\Debug\net7.0\as.genruntimeconfig.cache
+G:\My Drive\ADS - ULBRA\2° Semestre\Laboratório de Programação - Quinta\AULA 20 LP - AS\as\obj\Debug\net7.0\ref\as.dll
+C:\Users\tresp\OneDrive\Área de Trabalho\ULBRA 2023-2 Semestre\Laboratorio De Programação\AS\AS_Base\as\bin\Debug\net7.0\as.exe
+C:\Users\tresp\OneDrive\Área de Trabalho\ULBRA 2023-2 Semestre\Laboratorio De Programação\AS\AS_Base\as\bin\Debug\net7.0\as.deps.json
+C:\Users\tresp\OneDrive\Área de Trabalho\ULBRA 2023-2 Semestre\Laboratorio De Programação\AS\AS_Base\as\bin\Debug\net7.0\as.runtimeconfig.json
+C:\Users\tresp\OneDrive\Área de Trabalho\ULBRA 2023-2 Semestre\Laboratorio De Programação\AS\AS_Base\as\bin\Debug\net7.0\as.dll
+C:\Users\tresp\OneDrive\Área de Trabalho\ULBRA 2023-2 Semestre\Laboratorio De Programação\AS\AS_Base\as\bin\Debug\net7.0\as.pdb
+C:\Users\tresp\OneDrive\Área de Trabalho\ULBRA 2023-2 Semestre\Laboratorio De Programação\AS\AS_Base\as\obj\Debug\net7.0\as.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tresp\OneDrive\Área de Trabalho\ULBRA 2023-2 Semestre\Laboratorio De Programação\AS\AS_Base\as\obj\Debug\net7.0\as.AssemblyInfoInputs.cache
+C:\Users\tresp\OneDrive\Área de Trabalho\ULBRA 2023-2 Semestre\Laboratorio De Programação\AS\AS_Base\as\obj\Debug\net7.0\as.AssemblyInfo.cs
+C:\Users\tresp\OneDrive\Área de Trabalho\ULBRA 2023-2 Semestre\Laboratorio De Programação\AS\AS_Base\as\obj\Debug\net7.0\as.csproj.CoreCompileInputs.cache
+C:\Users\tresp\OneDrive\Área de Trabalho\ULBRA 2023-2 Semestre\Laboratorio De Programação\AS\AS_Base\as\obj\Debug\net7.0\as.dll
+C:\Users\tresp\OneDrive\Área de Trabalho\ULBRA 2023-2 Semestre\Laboratorio De Programação\AS\AS_Base\as\obj\Debug\net7.0\refint\as.dll
+C:\Users\tresp\OneDrive\Área de Trabalho\ULBRA 2023-2 Semestre\Laboratorio De Programação\AS\AS_Base\as\obj\Debug\net7.0\as.pdb
+C:\Users\tresp\OneDrive\Área de Trabalho\ULBRA 2023-2 Semestre\Laboratorio De Programação\AS\AS_Base\as\obj\Debug\net7.0\as.genruntimeconfig.cache
+C:\Users\tresp\OneDrive\Área de Trabalho\ULBRA 2023-2 Semestre\Laboratorio De Programação\AS\AS_Base\as\obj\Debug\net7.0\ref\as.dll
